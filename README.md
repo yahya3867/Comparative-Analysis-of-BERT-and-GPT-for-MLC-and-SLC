@@ -15,8 +15,8 @@
 - [Key Results](#key-results) 📊
 - [Model Zoo](#model-zoo) 🏛️
 - [Quick Start](#quick-start) 🚀
-- [License](#license)
-- [Citation](#citation)
+- [License](#license) 📜
+- [Citation](#citation) 🔖
 
 
 
@@ -123,8 +123,10 @@ python GPT/scripts/MLC/MLC_eval.py # GPT evaluation script for MLC
 ```
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
+</p>
 
 ## Citation
 
