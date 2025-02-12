@@ -123,10 +123,7 @@ python GPT/scripts/MLC/MLC_eval.py # GPT evaluation script for MLC
 ```
 
 ## License
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
-<p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
-</p>
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ## Citation
 
