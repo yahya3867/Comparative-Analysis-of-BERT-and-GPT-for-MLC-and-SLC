@@ -15,7 +15,9 @@
 - [Key Results](#key-results)
 - [Model Zoo](#model-zoo)
 - [Quick Start](#quick-start)
+- [License](#license)
 - [Citation](#citation)
+
 
 
 ## Overview 🔍 
