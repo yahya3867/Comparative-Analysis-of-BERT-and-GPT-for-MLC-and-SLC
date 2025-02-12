@@ -11,16 +11,16 @@
 ## Updates
 
 ## Table of Contents 📌
-- [Overview](#overview)
-- [Key Results](#key-results)
-- [Model Zoo](#model-zoo)
-- [Quick Start](#quick-start)
+- [Overview](#overview) 🔍 
+- [Key Results](#key-results) 📊
+- [Model Zoo](#model-zoo) 🏛️
+- [Quick Start](#quick-start) 🚀
 - [License](#license)
 - [Citation](#citation)
 
 
 
-## Overview 🔍 
+## Overview 
 This study compares Multi-Label Classification (MLC) and a novel Single-Label Classification from Multi-Label Ground Truth (SL-MLG) approach for conflict-related news articles using BERT and GPT-based large language models (LLMs). We compare:
 
 - Traditional supervised fine-tuned BERT models vs.
@@ -28,7 +28,7 @@ This study compares Multi-Label Classification (MLC) and a novel Single-Label Cl
 
 
 
-## Key Results 📊 
+## Key Results  
 ### **MLC Collective Experimental Results**
 | Algorithm  | Model            | Runtime   | F1-score  |
 |-----------|-----------------|-----------|-----------|
@@ -49,7 +49,7 @@ This study compares Multi-Label Classification (MLC) and a novel Single-Label Cl
 | **BERT** | bert-base-uncased  | 9min 39s  | 0.7674418604651163 |
 
 
-## Model Zoo 🏛️
+## Model Zoo 
 
 | Model Type | Models Used |
 |------------|------------|
@@ -58,7 +58,7 @@ This study compares Multi-Label Classification (MLC) and a novel Single-Label Cl
 
 
 
-## Quick Start 🚀
+## Quick Start 
 
 ### **1️⃣ Initial Setup**
 
